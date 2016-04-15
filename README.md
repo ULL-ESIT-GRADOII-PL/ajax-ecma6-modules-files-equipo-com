@@ -17,6 +17,8 @@
 # Práctica PL.
 
 #### Comma Separated Values with AJAX
+[Descripción de la práctica en el CV](https://campusvirtual.ull.es/1516/mod/page/view.php?id=189369)
+<br/>[Página de la asignatura en el CV](https://campusvirtual.ull.es/1516/course/view.php?id=178)
 
 <b>A los requesitos de la práctica anterior se le añaden:</b>
 
